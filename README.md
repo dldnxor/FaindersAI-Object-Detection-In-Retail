@@ -21,6 +21,7 @@
 -------------------
 ## 👨‍👩‍👧‍👧Team Roles
 >- **이우택**  
+>   - Dataset EDA 및 Visualization
 >   - Data Augmentation 실험
 >   - Change Paste-In 구현 및 개선
 >   - Correlation Metric 개선
@@ -44,7 +45,6 @@
 >   - Correlation Metric 개선 방향 제안
 >   - 다양한 Correlation Metric Visualization
 >- **신현수**  
->   - Dataset EDA 및 Visualization
 >   - Albumentation Augmentation 적용 구현
 >   - Random Paste-In 및 Change Paste In 구현 및 개선
 >   - Yolov7 학습 안정화
